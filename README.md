@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+### Running on 
+```
+https://todolistvuex.herokuapp.com/
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
